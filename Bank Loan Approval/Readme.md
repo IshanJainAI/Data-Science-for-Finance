@@ -19,9 +19,12 @@ The prediction model not only helps the applicant but also helps the bank by min
 5) Performance Evaluation - Typical Classification Performance Criteria
  
 
-Author - Ishan Jain
+# Author
+Ishan Jain
 
-LinkedIn - https://www.linkedin.com/in/ishanjainofficial/
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
 
-Medium.com - https://medium.com/@ishanjain-ai
+# Medium.com
+https://medium.com/@ishanjain-ai
 
